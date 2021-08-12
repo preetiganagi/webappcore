@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{073F6C47-7EE7-4EAB-8968-5ACDDD3C8EC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.webappcore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Data/RazorPagesUserContext.cs" Line="10" Column="45" />
+      <File FileName="appsettings.json" Line="12" Column="64" />
+      <File FileName="Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webappcore" expanded="True">
+            <Node name="webappcore" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
